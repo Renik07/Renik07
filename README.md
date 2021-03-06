@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Renat
 #### and I like what I do
-![and I like what I do](https://i.ibb.co/dfGYfcL/photo.jpg)
+![and I like what I do](https://i.ibb.co/bLPBL8f/photo.jpg)
 
 I am junior frontend-developer. You can see the main skills below. I also have a basic knowledge of the GO language (there is a website in this language in my portfolio). At the moment, I continue to study React / Redux / React Native.
 
