@@ -1,4 +1,4 @@
-#### my name is Renat
+### Hi there 👋, my name is Renat
 #### and I like what I do
 ![and I like what I do](https://i.ibb.co/dfGYfcL/photo.jpg)
 
