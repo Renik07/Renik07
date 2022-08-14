@@ -7,6 +7,7 @@ I'm 34 years old. I live in the city of St. Petersburg. 3 years ago I started le
 For more than a year I have been working as an HTML coder for a company that creates online courses. My responsibilities include creating websites and quizzes, creating content for courses, layout emails, writing small scripts.
 
 For the last six months I have been learning React / Redux and in parallel I am doing my pet project: <br>
+Repository - https://github.com/Renik07/react_social_network <br>
 Social network - https://workwise.vercel.app <br>
 My page - https://workwise.vercel.app/profile/23927 <br>
 Login information: <br>
