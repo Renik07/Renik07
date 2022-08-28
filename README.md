@@ -2,8 +2,6 @@
 #### and I'm frontend-developer
 ![and I'm frontend-developer](https://camo.githubusercontent.com/2bdcaeca6d54760855aa61b5920b0a7ca54f75e33aab1e3f6aa0f50f90d61e30/68747470733a2f2f692e6962622e636f2f624c50424c38662f70686f746f2e6a7067)
 
-I'm 34 years old. I live in the city of St. Petersburg. 3 years ago I started learning HTML, CSS, then JS.
-
 For more than a year I have been working as an HTML coder for a company that creates online courses. My responsibilities include creating websites and quizzes, creating content for courses, layout emails, writing small scripts.
 
 The last six months of diving into React/Redux and my own pet project: <br>
