@@ -3,7 +3,7 @@
 ![and I'm frontend-developer](https://camo.githubusercontent.com/2bdcaeca6d54760855aa61b5920b0a7ca54f75e33aab1e3f6aa0f50f90d61e30/68747470733a2f2f692e6962622e636f2f624c50424c38662f70686f746f2e6a7067)
 
 Social network (React) - https://workwise.vercel.app <br>
-Future Academy (React, Next.js, TypeScript, API) - https://future-academy-pi.vercel.app
+Future Academy (React, Next.js, TypeScript, API) - https://future-academy-pi.vercel.app <br>
 Real-time chat (React, Firebase) - https://react-realtime-chat-2806.web.app/chat
 
 Skills: HTML / SCSS / JS / TypeScript / REACT / REDUX / Next.js
