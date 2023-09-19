@@ -7,7 +7,7 @@ Solar system (React, Three.js, Tailwind CSS, Framer motion) - https://solar-syst
 Future Academy (React, Next.js, TypeScript, API) - https://future-academy-pi.vercel.app <br>
 Real-time chat (React, Firebase) - https://react-realtime-chat-2806.web.app/chat
 
-Skills: HTML / SCSS / JS / TypeScript / REACT / REDUX / Next.js
+Skills: HTML / SCSS / JS / TypeScript / REACT / REDUX / Next.js / EXPO / React Native
 
 - E-mail: restspread@gmail.com 
 - Tel: +7 (964) 334-16-86 
